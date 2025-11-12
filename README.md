@@ -1,2 +1,3 @@
 # aufgaben-python
-hier findet ihr ein paar python aufgaben
+Hier findet ihr ein paar Python aufgaben
+Versucht diese aufgaben zu lösen und habt spass dabei
