@@ -25,7 +25,3 @@ def kleidung(temp):
         print("Du brauchst keinenn regenschirm")
     return regen
 
-temperatur=int(input("wie viel grad sind es draußen? "))
-#kleidung(temperatur)
-unwetter=kleidung(temperatur)
-print(unwetter)
