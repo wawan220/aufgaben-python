@@ -7,15 +7,12 @@ Schreibe ein kleines program das:
 - weise den benutzer auf die fehler hin und ende das program 
 - 
 """
-import sys
 
+import sys
 
 try:
     x=int(input("gebe eine zahl ein: "))
-
     print(4/x)
-
-
 #except(ZeroDivisionError,ValueError):
 #    Print("gebe eine gültige ganzzahl ein")
 
